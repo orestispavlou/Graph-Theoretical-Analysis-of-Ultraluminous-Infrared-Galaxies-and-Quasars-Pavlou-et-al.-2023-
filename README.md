@@ -2,7 +2,9 @@
 Graph Theoretical Analysis of Ultraluminous Infrared Galaxies (ULIRGs) and Quasars - Pavlou et al. 2023 (Astronomy and Computing journal) code
 
 **Article title**: Graph Theoretical Analysis of Ultraluminous Infrared Galaxies and Quasars
+
 **Journal**: Astronomy and Computing
+
 **Pre-print DOI (SSRN)**: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4455994](https://dx.doi.org/10.2139/ssrn.4455994)
 
 
