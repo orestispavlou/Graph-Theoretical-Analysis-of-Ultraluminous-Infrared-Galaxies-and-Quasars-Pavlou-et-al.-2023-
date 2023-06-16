@@ -17,4 +17,5 @@ We present a methodological framework for studying galaxy evolution by utilizing
 Pavlou, Orestis and Michos, Ioannis and Papadopoulou Lesta, Vicky and Papadopoulos, Michalis and Papaefthymiou, Evangelos S. and Efstathiou, Andreas, Graph Theoretical Analysis of Local Ultraluminous Infrared Galaxies and Quasars. Available at SSRN: https://ssrn.com/abstract=4455994 or http://dx.doi.org/10.2139/ssrn.4455994
 
 Code written in **Python 3.5** (Anaconda package)
+
 **Main libraries and tools used**: Astropy, igraph, networkX, scipy, sklearn, pandas
