@@ -6,6 +6,7 @@ Graph Theoretical Analysis of Ultraluminous Infrared Galaxies (ULIRGs) and Quasa
 **Journal**: Astronomy and Computing
 
 **Pre-print (SSRN)**: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4455994](https://dx.doi.org/10.2139/ssrn.4455994)
+
 **Pre-print (arXiv)**: https://arxiv.org/abs/2307.14746
 
 **Abstract**:
